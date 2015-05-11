@@ -1,0 +1,11 @@
+h2 {
+    text-align: center;
+}
+div.chart_div,div.selectors_div {
+    float: left;
+}
+
+#selectors_div{
+    width: 600px;
+}
+
